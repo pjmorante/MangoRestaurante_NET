@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cktgiX+AKCxTc3Dw7vL9EyAOlmsc2KlzQSMkfFCWncg8jXjAuZuCSpma3Y6uzAujHxzj+ewg5rQEMd3e7b9sqw==",
+  "dgSpecHash": "shvJpmZDMy5ErHMwaukf8HS0Yd/GctwnRXlqqwsCct6v/VNpAQ5pFvE24X/oyWVz9m+yJWCJ3jpzH47pfN5MJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pedro\\Documents\\cSharp\\udemy\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
